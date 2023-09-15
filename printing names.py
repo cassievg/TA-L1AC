@@ -1,1 +1,2 @@
-''' Create a program that prints 'Hello' + name '''
+a = input("Name? ")
+print("Hello",a)
